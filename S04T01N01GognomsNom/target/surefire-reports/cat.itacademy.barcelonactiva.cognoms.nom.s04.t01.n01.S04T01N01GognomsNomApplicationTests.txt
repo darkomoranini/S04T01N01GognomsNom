@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cat.itacademy.barcelonactiva.cognoms.nom.s04.t01.n01.S04T01N01GognomsNomApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.47 s - in cat.itacademy.barcelonactiva.cognoms.nom.s04.t01.n01.S04T01N01GognomsNomApplicationTests
